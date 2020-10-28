@@ -18,7 +18,7 @@ def findNumbersWithEvenDigits(nums: List[int]) -> int:
         
 def main ():
     '''
-        n - Array size (int): 0 <= n <= 100000
+        n - Array size (int): 1 <= n <= 100000
         temp - Array elements (string of numbers separated by ' ')
     '''
     arr=[]
