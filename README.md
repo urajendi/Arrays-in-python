@@ -12,3 +12,4 @@ Python Version:
 - Duplicate zeroes
 - Merge two sorted arrays
 - Remove element
+- Remove duplicates
