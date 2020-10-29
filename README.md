@@ -14,3 +14,4 @@ Python Version:
 - Remove element
 - Remove duplicates
 - N and its double
+- Valid mountain array
