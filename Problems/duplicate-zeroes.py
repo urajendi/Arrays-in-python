@@ -1,7 +1,9 @@
 '''
-	Problem: Given a fixed length array of integers, duplicate each occurrence of zero, shifting the remaining elements to the right.
-	The input array will contain numbers only in the range [0,9].
-	The length of input array is in the range [1,10000].
+	Problem: Given a fixed length array arr of integers, duplicate each occurrence of zero, shifting the remaining elements to the right.
+    Note:
+        The elements beyond the length of the original array are not written.
+        1 <= arr.length <= 10000
+        0 <= arr[i] <= 9
 '''
 from typing import List
     

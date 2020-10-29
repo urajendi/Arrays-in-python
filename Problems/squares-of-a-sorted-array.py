@@ -1,7 +1,9 @@
 '''
-	Problem: Given an array of integers sorted in non-decreasing order, return an array of the squares of each number, also in sorted non-decreasing order.
-	The input array will contain numbers only in the range [-10000,10000].
-	The length of input array is in the range [1,10000].
+	Problem: Given an array of integers A sorted in non-decreasing order, return an array of the squares of each number, also in sorted non-decreasing order.
+    Note:
+        1 <= A.length <= 10000
+        -10000 <= A[i] <= 10000
+        A is sorted in non-decreasing order.
 '''
 from typing import List
     

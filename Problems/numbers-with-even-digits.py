@@ -1,7 +1,8 @@
 '''
-	Problem: Given an array of integers, return how many of them contain an even number of digits.
-	The input array will contain numbers only in the range [1,100000].
-	The length of input array is in the range [1,500].
+	Problem: Given an array nums of integers, return how many of them contain an even number of digits.
+    Constraints:
+        1 <= nums.length <= 500
+        1 <= nums[i] <= 10^5
 '''
 from typing import List
     
