@@ -11,3 +11,4 @@ Python Version:
 - Squares of a sorted array
 - Duplicate zeroes
 - Merge two sorted arrays
+- Remove element
