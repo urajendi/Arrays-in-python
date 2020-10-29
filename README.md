@@ -13,3 +13,4 @@ Python Version:
 - Merge two sorted arrays
 - Remove element
 - Remove duplicates
+- N and its double
